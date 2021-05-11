@@ -1,0 +1,4 @@
+features
+android.permission.INTERNET
+android.webkit.WebView.onPause()
+android.webkit.WebView.onResume()

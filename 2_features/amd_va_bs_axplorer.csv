@@ -1,0 +1,106 @@
+features
+"android.app.ActivityManager.getRecentTasks(int, int)"
+android.app.ActivityManager.getRunningAppProcesses()
+android.app.ActivityManager.getRunningTasks(int)
+android.app.ActivityManager.killBackgroundProcesses(java.lang.String)
+android.app.ActivityManager.restartPackage(java.lang.String)
+android.app.Service.stopSelf()
+android.app.Service.stopSelfResult(int)
+android.app.WallpaperManager.clear()
+android.app.WallpaperManager.setBitmap(android.graphics.Bitmap)
+android.app.WallpaperManager.setResource(int)
+android.app.WallpaperManager.setStream(java.io.InputStream)
+"android.app.WallpaperManager.suggestDesiredDimensions(int, int)"
+android.app.backup.BackupManager.dataChanged()
+android.bluetooth.BluetoothAdapter.disable()
+android.bluetooth.BluetoothAdapter.getAddress()
+android.bluetooth.BluetoothAdapter.getBondedDevices()
+android.bluetooth.BluetoothAdapter.getName()
+android.bluetooth.BluetoothAdapter.getScanMode()
+android.bluetooth.BluetoothAdapter.getState()
+android.bluetooth.BluetoothAdapter.isDiscovering()
+android.bluetooth.BluetoothAdapter.isEnabled()
+"android.bluetooth.BluetoothAdapter.listenUsingRfcommWithServiceRecord(java.lang.String, java.util.UUID)"
+android.bluetooth.BluetoothDevice.createRfcommSocketToServiceRecord(java.util.UUID)
+android.bluetooth.BluetoothDevice.getBluetoothClass()
+android.bluetooth.BluetoothDevice.getBondState()
+android.bluetooth.BluetoothDevice.getName()
+android.bluetooth.BluetoothSocket.connect()
+"android.media.AsyncPlayer.play(android.content.Context, android.net.Uri, boolean, int)"
+android.media.AsyncPlayer.stop()
+"android.media.AudioManager.adjustStreamVolume(int, int, int)"
+android.media.AudioManager.setBluetoothScoOn(boolean)
+android.media.AudioManager.setMicrophoneMute(boolean)
+android.media.AudioManager.setMode(int)
+android.media.AudioManager.setSpeakerphoneOn(boolean)
+"android.media.AudioManager.setStreamMute(int, boolean)"
+"android.media.AudioManager.setStreamVolume(int, int, int)"
+android.media.AudioManager.startBluetoothSco()
+android.media.MediaPlayer.pause()
+android.media.MediaPlayer.release()
+android.media.MediaPlayer.reset()
+"android.media.MediaPlayer.setWakeMode(android.content.Context, int)"
+android.media.MediaPlayer.start()
+android.media.MediaPlayer.stop()
+android.media.MediaScannerConnection.disconnect()
+android.media.Ringtone.play()
+android.media.Ringtone.setStreamType(int)
+android.media.Ringtone.stop()
+"android.media.RingtoneManager.getRingtone(android.content.Context, android.net.Uri)"
+android.media.browse.MediaBrowser.disconnect()
+android.net.ConnectivityManager.getActiveNetworkInfo()
+android.net.ConnectivityManager.getAllNetworkInfo()
+android.net.ConnectivityManager.getNetworkInfo(int)
+android.net.ConnectivityManager.isActiveNetworkMetered()
+android.net.wifi.WifiManager.addNetwork(android.net.wifi.WifiConfiguration)
+android.net.wifi.WifiManager.disconnect()
+"android.net.wifi.WifiManager.enableNetwork(int, boolean)"
+android.net.wifi.WifiManager.getConfiguredNetworks()
+android.net.wifi.WifiManager.getConnectionInfo()
+android.net.wifi.WifiManager.getDhcpInfo()
+android.net.wifi.WifiManager.getScanResults()
+android.net.wifi.WifiManager.getWifiState()
+android.net.wifi.WifiManager.isWifiEnabled()
+android.net.wifi.WifiManager.reassociate()
+android.net.wifi.WifiManager.removeNetwork(int)
+android.net.wifi.WifiManager.saveConfiguration()
+android.net.wifi.WifiManager.setWifiEnabled(boolean)
+android.net.wifi.WifiManager.startScan()
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.BLUETOOTH
+android.permission.BLUETOOTH_ADMIN
+android.permission.BROADCAST_STICKY
+android.permission.CHANGE_WIFI_STATE
+android.permission.GET_TASKS
+android.permission.KILL_BACKGROUND_PROCESSES
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.SET_WALLPAPER
+android.permission.SET_WALLPAPER_HINTS
+android.permission.WAKE_LOCK
+android.speech.SpeechRecognizer.destroy()
+android.speech.tts.TextToSpeech.getFeatures(java.util.Locale)
+android.speech.tts.TextToSpeech.getLanguage()
+android.speech.tts.TextToSpeech.isLanguageAvailable(java.util.Locale)
+android.speech.tts.TextToSpeech.isSpeaking()
+android.speech.tts.TextToSpeech.setLanguage(java.util.Locale)
+android.speech.tts.TextToSpeech.shutdown()
+android.speech.tts.TextToSpeech.stop()
+android.telephony.SmsManager.divideMessage(java.lang.String)
+android.telephony.TelephonyManager.getCellLocation()
+android.telephony.TelephonyManager.getLine1Number()
+android.telephony.TelephonyManager.getSimSerialNumber()
+android.telephony.TelephonyManager.getSimState()
+android.telephony.TelephonyManager.getSubscriberId()
+android.telephony.TelephonyManager.getVoiceMailAlphaTag()
+android.telephony.TelephonyManager.getVoiceMailNumber()
+android.telephony.gsm.SmsManager.divideMessage(java.lang.String)
+android.widget.VideoView.pause()
+android.widget.VideoView.resume()
+android.widget.VideoView.setVideoPath(java.lang.String)
+android.widget.VideoView.setVideoURI(android.net.Uri)
+android.widget.VideoView.start()
+android.widget.VideoView.stopPlayback()
+android.widget.VideoView.suspend()

@@ -1,0 +1,452 @@
+features
+android.widget.Adapter.getItemViewType(int)
+android.permission.ACCESS_NETWORK_STATE
+android.media.MediaPlayer.setScreenOnWhilePlaying(boolean)
+android.database.sqlite.SQLiteCursor.close()
+java.lang.Thread.getStackTrace()
+android.webkit.WebView.restoreState(android.os.Bundle)
+android.content.Intent.getSourceBounds()
+android.app.admin.DevicePolicyManager.lockNow()
+android.os.Environment.getExternalStoragePublicDirectory(java.lang.String)
+android.view.View.setAlpha(float)
+"android.view.Menu.addIntentOptions(int, int, int, android.content.ComponentName, android.content.Intent[], android.content.Intent, int, android.view.MenuItem[])"
+android.app.Fragment.onResume()
+android.support.v4.app.Fragment.onPause()
+android.widget.Spinner.getPopupContext()
+android.support.v7.app.AppCompatActivity.getSupportParentActivityIntent()
+android.permission.SEND_SMS
+android.app.ListActivity.onDestroy()
+"android.telephony.TelephonyManager.listen(android.telephony.PhoneStateListener, int)"
+android.app.ActivityGroup.onSaveInstanceState(android.os.Bundle)
+"android.support.v4.view.ViewCompat.setAccessibilityDelegate(android.view.View, android.support.v4.view.AccessibilityDelegateCompat)"
+"android.telephony.SmsManager.sendTextMessage(java.lang.String, java.lang.String, java.lang.String, android.app.PendingIntent, android.app.PendingIntent)"
+"android.app.admin.DevicePolicyManager.resetPassword(java.lang.String, int)"
+android.app.LocalActivityManager.dispatchStop()
+android.webkit.WebView.reload()
+android.app.Activity.getLoaderManager()
+android.permission.MODIFY_AUDIO_SETTINGS
+android.telephony.TelephonyManager.getVoiceMailAlphaTag()
+android.bluetooth.BluetoothDevice.createRfcommSocketToServiceRecord(java.util.UUID)
+"android.support.v4.app.Fragment.onActivityResult(int, int, android.content.Intent)"
+android.app.NotificationManager.cancelAll()
+android.app.Activity.getReferrer()
+java.util.Arrays.hashCode(short[])
+android.graphics.Paint.getXfermode()
+"android.telephony.SmsMessage.createFromPdu(byte[], java.lang.String)"
+android.content.Intent.setClipData(android.content.ClipData)
+android.telephony.TelephonyManager.getLine1Number()
+android.net.wifi.WifiManager.removeNetwork(int)
+android.permission.READ_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+"java.lang.Thread.join(long, int)"
+android.view.View.requestLayout()
+java.util.Vector.remove(java.lang.Object)
+android.os.Binder.getCallingPid()
+android.content.Context.getObbDir()
+android.location.LocationManager.getLastKnownLocation(java.lang.String)
+android.support.v4.app.Fragment.onStop()
+java.util.List.hashCode()
+java.lang.Thread.join()
+android.content.Intent.getClipData()
+android.app.ActivityGroup.onPause()
+"android.support.v4.content.CursorLoader.CursorLoader(android.content.Context, android.net.Uri, java.lang.String[], java.lang.String, java.lang.String[], java.lang.String)"
+"android.content.ContentProvider.bulkInsert(android.net.Uri, android.content.ContentValues[])"
+android.app.Fragment.onPause()
+android.app.DialogFragment.onStop()
+android.view.SubMenu.getItem()
+"android.content.Context.registerReceiver(android.content.BroadcastReceiver, android.content.IntentFilter, java.lang.String, android.os.Handler)"
+android.permission.READ_EXTERNAL_STORAGE
+android.widget.ListView.addHeaderView(android.view.View)
+android.content.pm.PackageManager.getSystemAvailableFeatures()
+android.graphics.Paint.getAlpha()
+"android.widget.RemoteViews.setOnClickPendingIntent(int, android.app.PendingIntent)"
+android.permission.BLUETOOTH_ADMIN
+"android.support.v4.view.ViewCompat.performAccessibilityAction(android.view.View, int, android.os.Bundle)"
+android.bluetooth.BluetoothAdapter.disable()
+android.location.Location.getAccuracy()
+android.app.Fragment.setArguments(android.os.Bundle)
+android.telephony.SmsMessage.createFromPdu(byte[])
+android.app.Activity.startManagingCursor(android.database.Cursor)
+android.bluetooth.BluetoothAdapter.isEnabled()
+"android.app.Service.onStartCommand(android.content.Intent, int, int)"
+android.net.wifi.WifiManager.getConnectionInfo()
+android.os.SystemClock.sleep(long)
+android.graphics.Bitmap.getByteCount()
+android.content.Context.startService(android.content.Intent)
+android.preference.Preference.setIntent(android.content.Intent)
+android.accounts.AccountManager.getAccountsByType(java.lang.String)
+android.webkit.WebSettings.setGeolocationEnabled(boolean)
+"android.support.v4.view.ViewCompat.onInitializeAccessibilityEvent(android.view.View, android.view.accessibility.AccessibilityEvent)"
+android.app.NotificationManager.cancel(int)
+android.app.ActivityGroup.onStop()
+android.hardware.usb.UsbManager.openDevice(android.hardware.usb.UsbDevice)
+"android.widget.SpinnerAdapter.getDropDownView(int, android.view.View, android.view.ViewGroup)"
+java.lang.Thread.interrupt()
+android.bluetooth.BluetoothAdapter.getState()
+android.view.Menu.add(int)
+android.permission.WRITE_SECURE_SETTINGS
+android.content.Intent.getDataString()
+android.content.BroadcastReceiver.abortBroadcast()
+android.content.Intent.setData(android.net.Uri)
+"android.location.LocationManager.requestLocationUpdates(java.lang.String, long, float, android.app.PendingIntent)"
+android.bluetooth.BluetoothAdapter.getScanMode()
+android.app.Activity.setIntent(android.content.Intent)
+android.webkit.CookieManager.setAcceptCookie(boolean)
+android.app.Activity.onWindowFocusChanged(boolean)
+android.webkit.WebView.loadUrl(java.lang.String)
+android.bluetooth.BluetoothAdapter.getAddress()
+"android.app.NotificationManager.cancel(java.lang.String, int)"
+android.graphics.Bitmap.getAllocationByteCount()
+android.media.AudioManager.startBluetoothSco()
+android.app.Fragment.onAttach(android.app.Activity)
+android.app.RemoteInput.getResultKey()
+java.util.concurrent.locks.Condition.awaitUninterruptibly()
+"android.os.PowerManager.newWakeLock(int, java.lang.String)"
+android.app.Activity.onUserLeaveHint()
+android.location.Location.setAccuracy(float)
+android.webkit.WebSettings.setBlockNetworkLoads(boolean)
+"java.util.concurrent.CountDownLatch.await(long, java.util.concurrent.TimeUnit)"
+android.content.Intent.getData()
+android.bluetooth.BluetoothServerSocket.accept()
+android.app.Activity.stopManagingCursor(android.database.Cursor)
+"android.view.Menu.addSubMenu(int, int, int, java.lang.CharSequence)"
+"android.app.Activity.managedQuery(android.net.Uri, java.lang.String[], java.lang.String, java.lang.String[], java.lang.String)"
+android.media.MediaPlayer.setDisplay(android.view.SurfaceHolder)
+android.app.FragmentManager.beginTransaction()
+"android.content.Context.enforceCallingPermission(java.lang.String, java.lang.String)"
+android.content.ContextWrapper.startActivity(android.content.Intent)
+android.location.LocationManager.removeUpdates(android.location.LocationListener)
+android.app.Activity.onCreateNavigateUpTaskStack(android.app.TaskStackBuilder)
+android.database.Cursor.close()
+"android.content.ContentResolver.openTypedAssetFileDescriptor(android.net.Uri, java.lang.String, android.os.Bundle)"
+android.app.Fragment.getArguments()
+java.lang.ProcessBuilder.command()
+java.lang.Object.equals(java.lang.Object)
+java.util.concurrent.locks.Condition.await()
+android.accounts.AccountManager.getAccounts()
+java.security.cert.X509CertSelector.getMatchAllSubjectAltNames()
+android.content.Context.startActivity(android.content.Intent)
+android.webkit.WebView.capturePicture()
+android.database.Cursor.requery()
+android.app.Activity.recreate()
+android.bluetooth.BluetoothAdapter.setName(java.lang.String)
+java.util.Arrays.hashCode(int[])
+android.permission.GET_ACCOUNTS
+android.content.Intent.setFlags(int)
+"android.app.PendingIntent.send(android.content.Context, int, android.content.Intent)"
+android.support.v7.app.AppCompatActivity.onCreateSupportNavigateUpTaskStack(android.support.v4.app.TaskStackBuilder)
+android.app.AlertDialog.onCreate(android.os.Bundle)
+android.app.Dialog.onCreate(android.os.Bundle)
+"android.hardware.SensorManager.remapCoordinateSystem(float[], int, int, float[])"
+java.util.Arrays.hashCode(char[])
+android.app.Fragment.onCreate(android.os.Bundle)
+android.app.Activity.isChangingConfigurations()
+android.media.AudioManager.stopBluetoothSco()
+android.app.Service.stopSelf()
+android.app.ProgressDialog.onCreate(android.os.Bundle)
+"java.util.concurrent.ThreadPoolExecutor.awaitTermination(long, java.util.concurrent.TimeUnit)"
+android.content.Context.getExternalFilesDir(java.lang.String)
+android.app.Activity.onPostResume()
+android.opengl.GLSurfaceView.onPause()
+"android.hardware.SensorManager.getOrientation(float[], float[])"
+java.lang.Object.wait()
+android.telephony.TelephonyManager.getDeviceSoftwareVersion()
+"android.content.Context.sendOrderedBroadcast(android.content.Intent, java.lang.String)"
+"android.webkit.WebViewClient.shouldOverrideUrlLoading(android.webkit.WebView, java.lang.String)"
+android.database.Cursor.registerDataSetObserver(android.database.DataSetObserver)
+android.view.MenuItem.setIntent(android.content.Intent)
+"android.content.ContextWrapper.registerReceiver(android.content.BroadcastReceiver, android.content.IntentFilter)"
+android.support.v7.app.AppCompatDelegate.onPostResume()
+android.net.wifi.WifiManager.setWifiEnabled(boolean)
+java.lang.Runnable.run()
+android.app.NativeActivity.onPause()
+"java.util.concurrent.Semaphore.tryAcquire(long, java.util.concurrent.TimeUnit)"
+java.lang.ProcessBuilder.redirectErrorStream(boolean)
+java.util.concurrent.ThreadPoolExecutor.isTerminating()
+android.util.SparseIntArray.valueAt(int)
+android.preference.PreferenceActivity.onStop()
+android.content.Intent.getAction()
+android.permission.READ_PHONE_STATE
+android.bluetooth.BluetoothDevice.getName()
+java.util.concurrent.locks.ReentrantLock.lockInterruptibly()
+"android.content.ContentResolver.openFileDescriptor(android.net.Uri, java.lang.String)"
+android.app.ActivityGroup.onResume()
+android.content.Context.getFileStreamPath(java.lang.String)
+java.lang.ProcessBuilder.directory(java.io.File)
+android.permission.ACCESS_COARSE_LOCATION
+android.preference.PreferenceActivity.onCreate(android.os.Bundle)
+java.util.concurrent.Semaphore.acquire()
+java.nio.channels.Selector.wakeup()
+android.app.LocalActivityManager.removeAllActivities()
+android.app.Activity.onStop()
+"android.view.Menu.addSubMenu(int, int, int, int)"
+android.app.Activity.onPostCreate(android.os.Bundle)
+android.app.LocalActivityManager.saveInstanceState()
+android.app.Activity.isFinishing()
+android.view.View.bringToFront()
+android.support.v7.app.AppCompatDelegate.onStop()
+java.security.cert.X509CertSelector.getSubjectAlternativeNames()
+android.support.v4.view.ActionProvider.onPerformDefaultAction()
+"android.bluetooth.BluetoothAdapter.listenUsingRfcommWithServiceRecord(java.lang.String, java.util.UUID)"
+android.telephony.TelephonyManager.getCellLocation()
+android.permission.CHANGE_WIFI_STATE
+android.content.Context.getApplicationContext()
+android.location.LocationManager.getAllProviders()
+"android.webkit.WebView.loadData(java.lang.String, java.lang.String, java.lang.String)"
+android.database.DataSetObserver.onChanged()
+"android.content.ContentProvider.insert(android.net.Uri, android.content.ContentValues)"
+android.app.Activity.onPause()
+android.bluetooth.BluetoothDevice.getBluetoothClass()
+android.content.Context.getNoBackupFilesDir()
+android.util.SparseIntArray.indexOfValue(int)
+"android.app.PendingIntent.getActivity(android.content.Context, int, android.content.Intent, int)"
+android.app.NativeActivity.onDestroy()
+android.bluetooth.BluetoothAdapter.getBondedDevices()
+android.view.ViewGroup.bringChildToFront(android.view.View)
+android.os.Binder.getCallingUid()
+android.widget.Spinner.setAdapter(android.widget.SpinnerAdapter)
+"android.webkit.WebView.postUrl(java.lang.String, byte[])"
+android.content.Context.removeStickyBroadcast(android.content.Intent)
+android.telephony.TelephonyManager.getNetworkType()
+android.graphics.drawable.AnimationDrawable.start()
+android.graphics.Picture.draw(android.graphics.Canvas)
+android.os.Handler.Handler()
+android.widget.Adapter.getViewTypeCount()
+"android.util.Base64.encodeToString(byte[], int)"
+android.location.LocationManager.removeUpdates(android.app.PendingIntent)
+android.location.LocationManager.getGpsStatus(android.location.GpsStatus)
+java.io.File.lastModified()
+android.app.Activity.getLastNonConfigurationInstance()
+android.support.v7.app.AppCompatActivity.onSupportNavigateUp()
+"android.content.BroadcastReceiver.onReceive(android.content.Context, android.content.Intent)"
+android.support.v4.app.Fragment.onStart()
+android.app.Fragment.Fragment()
+"android.app.Activity.startActivityIfNeeded(android.content.Intent, int, android.os.Bundle)"
+android.net.NetworkInfo.isConnected()
+"android.webkit.WebView.setLayerType(int, android.graphics.Paint)"
+android.app.Fragment.onStop()
+java.lang.Thread.join(long)
+android.app.Activity.getParentActivityIntent()
+android.content.pm.PackageManager.hasSystemFeature(java.lang.String)
+android.app.NativeActivity.onCreate(android.os.Bundle)
+android.database.DataSetObserver.onInvalidated()
+android.app.Fragment.onActivityCreated(android.os.Bundle)
+android.app.Activity.onUserInteraction()
+"android.content.CursorLoader.CursorLoader(android.content.Context, android.net.Uri, java.lang.String[], java.lang.String, java.lang.String[], java.lang.String)"
+android.webkit.WebSettings.getDefaultUserAgent(android.content.Context)
+"android.app.AlarmManager.set(int, long, android.app.PendingIntent)"
+android.database.Cursor.registerContentObserver(android.database.ContentObserver)
+android.app.ActivityOptions.toBundle()
+android.app.AlarmManager.cancel(android.app.PendingIntent)
+android.content.ContextWrapper.getCacheDir()
+android.media.RingtoneManager.getValidRingtoneUri(android.content.Context)
+java.nio.channels.FileChannel.force(boolean)
+android.view.View.onSaveInstanceState()
+android.app.Activity.onRestoreInstanceState(android.os.Bundle)
+"android.webkit.WebView.loadDataWithBaseURL(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)"
+"android.app.Service.startForeground(int, android.app.Notification)"
+"android.telephony.SmsManager.sendDataMessage(java.lang.String, java.lang.String, short, byte[], android.app.PendingIntent, android.app.PendingIntent)"
+java.util.Arrays.hashCode(byte[])
+android.app.LocalActivityManager.dispatchDestroy(boolean)
+java.util.Vector.get(int)
+android.app.Activity.onNavigateUp()
+android.app.LocalActivityManager.dispatchPause(boolean)
+android.app.RemoteInput.getResultsFromIntent(android.content.Intent)
+android.app.Activity.onResume()
+android.permission.WAKE_LOCK
+android.util.SparseArray.keyAt(int)
+android.content.pm.PackageManager.clearPackagePreferredActivities(java.lang.String)
+"android.content.Context.openFileOutput(java.lang.String, int)"
+android.database.sqlite.SQLiteCursor.deactivate()
+android.content.Context.getCacheDir()
+android.app.Activity.onAttachFragment(android.app.Fragment)
+android.content.Context.getExternalFilesDirs(java.lang.String)
+android.permission.READ_CONTACTS
+"android.app.Activity.onActivityResult(int, int, android.content.Intent)"
+"android.content.pm.PackageManager.resolveActivity(android.content.Intent, int)"
+android.app.Activity.onSaveInstanceState(android.os.Bundle)
+android.content.ContextWrapper.getFilesDir()
+android.permission.INTERNET
+java.util.concurrent.CountDownLatch.await()
+android.support.v4.app.Fragment.onResume()
+android.support.v4.app.Fragment.onSaveInstanceState(android.os.Bundle)
+"android.content.Context.bindService(android.content.Intent, android.content.ServiceConnection, int)"
+"android.widget.ListView.addHeaderView(android.view.View, java.lang.Object, boolean)"
+"android.content.Context.startActivity(android.content.Intent, android.os.Bundle)"
+"android.content.pm.PackageManager.addPreferredActivity(android.content.IntentFilter, int, android.content.ComponentName[], android.content.ComponentName)"
+"android.app.Activity.createPendingResult(int, android.content.Intent, int)"
+java.util.Hashtable.containsKey(java.lang.Object)
+android.location.Location.hasAccuracy()
+java.lang.Thread.sleep(long)
+android.widget.ListView.addFooterView(android.view.View)
+android.net.wifi.WifiManager.addNetwork(android.net.wifi.WifiConfiguration)
+android.permission.ACCESS_FINE_LOCATION
+java.lang.SecurityManager.checkPermission(java.security.Permission)
+"android.content.Context.sendOrderedBroadcast(android.content.Intent, java.lang.String, android.content.BroadcastReceiver, android.os.Handler, int, java.lang.String, android.os.Bundle)"
+android.content.Context.sendBroadcast(android.content.Intent)
+"android.app.NotificationManager.notify(java.lang.String, int, android.app.Notification)"
+java.util.Vector.remove(int)
+android.database.DataSetObservable.notifyChanged()
+android.app.Activity.onStart()
+android.app.Activity.onOptionsItemSelected(android.view.MenuItem)
+android.permission.READ_CALL_LOG
+android.app.ActivityGroup.onCreate(android.os.Bundle)
+android.view.ViewParent.requestLayout()
+"android.net.wifi.WifiManager.enableNetwork(int, boolean)"
+"android.content.ContentResolver.openOutputStream(android.net.Uri, java.lang.String)"
+android.net.ConnectivityManager.isActiveNetworkMetered()
+"java.lang.Object.wait(long, int)"
+"javax.microedition.khronos.opengles.GL10.glLoadMatrixf(float[], int)"
+java.util.Arrays.hashCode(long[])
+android.telephony.PhoneStateListener.onCellLocationChanged(android.telephony.CellLocation)
+android.support.v7.app.AppCompatDelegate.onDestroy()
+android.app.Activity.postponeEnterTransition()
+java.lang.System.getenv(java.lang.String)
+android.app.DialogFragment.onCreate(android.os.Bundle)
+android.bluetooth.BluetoothAdapter.isDiscovering()
+android.app.Activity.findViewById(int)
+android.net.wifi.WifiInfo.getBSSID()
+android.permission.BLUETOOTH
+android.graphics.Picture.endRecording()
+android.net.wifi.WifiManager.startScan()
+android.app.Activity.onCreate(android.os.Bundle)
+"android.content.Context.enforcePermission(java.lang.String, int, int, java.lang.String)"
+android.app.Activity.startActivity(android.content.Intent)
+"android.content.Context.enforceCallingUriPermission(android.net.Uri, int, java.lang.String)"
+android.widget.ListView.setAdapter(android.widget.ListAdapter)
+"android.content.ContentProvider.openAssetFile(android.net.Uri, java.lang.String)"
+android.content.Intent.getFlags()
+java.lang.ProcessBuilder.start()
+android.permission.BROADCAST_STICKY
+java.util.Vector.clear()
+"android.content.pm.PackageManager.queryIntentActivities(android.content.Intent, int)"
+android.bluetooth.BluetoothSocket.connect()
+"android.support.v4.view.AccessibilityDelegateCompat.onInitializeAccessibilityNodeInfo(android.view.View, android.support.v4.view.accessibility.AccessibilityNodeInfoCompat)"
+"android.content.ContentResolver.notifyChange(android.net.Uri, android.database.ContentObserver)"
+android.os.Environment.getExternalStorageState()
+android.opengl.GLSurfaceView.onResume()
+java.lang.Object.wait(long)
+android.content.ContentResolver.openInputStream(android.net.Uri)
+android.net.wifi.WifiManager.saveConfiguration()
+android.view.ViewParent.bringChildToFront(android.view.View)
+"android.content.Context.startActivities(android.content.Intent[], android.os.Bundle)"
+"android.content.Context.revokeUriPermission(android.net.Uri, int)"
+android.view.View.invalidate()
+android.content.ContentProvider.getType(android.net.Uri)
+"android.view.inputmethod.InputMethodManager.setInputMethodAndSubtype(android.os.IBinder, java.lang.String, android.view.inputmethod.InputMethodSubtype)"
+android.content.Context.startActivities(android.content.Intent[])
+android.content.Context.getExternalCacheDirs()
+java.util.concurrent.ThreadPoolExecutor.shutdownNow()
+android.app.Activity.getIntent()
+android.view.View.setLayerPaint(android.graphics.Paint)
+android.view.inputmethod.InputMethodManager.showInputMethodPicker()
+"android.support.v4.view.ViewCompat.setAlpha(android.view.View, float)"
+"android.app.PendingIntent.getActivities(android.content.Context, int, android.content.Intent[], int, android.os.Bundle)"
+android.media.session.MediaSession.setMediaButtonReceiver(android.app.PendingIntent)
+"android.content.ContentProvider.update(android.net.Uri, android.content.ContentValues, java.lang.String, java.lang.String[])"
+"android.app.LocalActivityManager.startActivity(java.lang.String, android.content.Intent)"
+"android.content.Context.sendStickyOrderedBroadcast(android.content.Intent, android.content.BroadcastReceiver, android.os.Handler, int, java.lang.String, android.os.Bundle)"
+"android.content.Context.enforceUriPermission(android.net.Uri, java.lang.String, java.lang.String, int, int, int, java.lang.String)"
+android.app.Fragment.onStart()
+android.content.Intent.setPackage(java.lang.String)
+android.net.ConnectivityManager.getNetworkInfo(int)
+android.database.sqlite.SQLiteCursor.requery()
+"android.content.ContentProvider.openFile(android.net.Uri, java.lang.String)"
+android.net.ConnectivityManager.getAllNetworkInfo()
+java.util.Arrays.hashCode(boolean[])
+android.graphics.Paint.getColorFilter()
+android.util.SparseArray.indexOfKey(int)
+android.support.v4.view.ActionProvider.hasSubMenu()
+android.os.Debug.startMethodTracing(java.lang.String)
+android.accounts.AccountManager.get(android.content.Context)
+java.util.Vector.elementAt(int)
+java.util.concurrent.Semaphore.acquireUninterruptibly()
+"android.content.ContentResolver.query(android.net.Uri, java.lang.String[], java.lang.String, java.lang.String[], java.lang.String)"
+android.telephony.TelephonyManager.getVoiceMailNumber()
+android.graphics.Bitmap.getRowBytes()
+java.util.Vector.removeElement(java.lang.Object)
+java.util.Arrays.hashCode(double[])
+android.os.Environment.getExternalStorageDirectory()
+android.permission.WRITE_CONTACTS
+android.content.Context.getFilesDir()
+android.app.Activity.onDestroy()
+"android.text.format.Formatter.formatShortFileSize(android.content.Context, long)"
+android.media.AudioTrack.getPlaybackHeadPosition()
+android.webkit.WebView.onDraw(android.graphics.Canvas)
+"android.view.View.setLayerType(int, android.graphics.Paint)"
+android.bluetooth.BluetoothAdapter.enable()
+android.net.ConnectivityManager.getActiveNetworkInfo()
+android.content.Context.getObbDirs()
+"java.util.concurrent.locks.ReentrantLock.tryLock(long, java.util.concurrent.TimeUnit)"
+android.telephony.SmsManager.getDefault()
+java.util.Vector.removeAllElements()
+"android.graphics.Canvas.saveLayer(android.graphics.RectF, android.graphics.Paint, int)"
+"android.location.LocationManager.requestLocationUpdates(java.lang.String, long, float, android.location.LocationListener)"
+"android.content.Context.grantUriPermission(java.lang.String, android.net.Uri, int)"
+"android.location.LocationManager.requestLocationUpdates(java.lang.String, long, float, android.location.LocationListener, android.os.Looper)"
+android.content.Context.getExternalCacheDir()
+android.webkit.WebSettings.setUserAgentString(java.lang.String)
+android.content.Context.sendStickyBroadcast(android.content.Intent)
+android.app.LocalActivityManager.dispatchResume()
+"android.widget.ListView.addFooterView(android.view.View, java.lang.Object, boolean)"
+java.util.Arrays.hashCode(float[])
+android.app.Instrumentation.startActivitySync(android.content.Intent)
+android.bluetooth.BluetoothDevice.getBondState()
+android.content.Intent.setType(java.lang.String)
+"android.content.BroadcastReceiver.peekService(android.content.Context, android.content.Intent)"
+java.lang.System.getenv()
+android.support.v4.app.Fragment.onOptionsItemSelected(android.view.MenuItem)
+java.util.concurrent.ExecutorService.shutdownNow()
+"android.support.v4.view.ViewCompat.onInitializeAccessibilityNodeInfo(android.view.View, android.support.v4.view.accessibility.AccessibilityNodeInfoCompat)"
+android.os.Looper.getMainLooper()
+java.util.Vector.removeElementAt(int)
+android.app.Activity.onRestart()
+android.content.Context.stopService(android.content.Intent)
+android.app.TabActivity.onSaveInstanceState(android.os.Bundle)
+android.app.Fragment.onSaveInstanceState(android.os.Bundle)
+java.util.Hashtable.contains(java.lang.Object)
+android.net.wifi.WifiManager.getScanResults()
+android.media.AudioTrack.reloadStaticData()
+android.app.Activity.onRetainNonConfigurationInstance()
+"android.content.Context.registerReceiver(android.content.BroadcastReceiver, android.content.IntentFilter)"
+java.io.File.setLastModified(long)
+"android.accounts.AccountManager.addOnAccountsUpdatedListener(android.accounts.OnAccountsUpdateListener, android.os.Handler, boolean)"
+android.permission.WRITE_CALL_LOG
+android.media.AudioTrack.setPlaybackHeadPosition(int)
+android.app.Activity.setContentView(int)
+android.database.Cursor.deactivate()
+"android.content.Context.enforceUriPermission(android.net.Uri, int, int, int, java.lang.String)"
+java.lang.Object.hashCode()
+"java.lang.Thread.sleep(long, int)"
+android.content.Intent.filterEquals(android.content.Intent)
+android.preference.PreferenceActivity.onDestroy()
+"java.io.RandomAccessFile.RandomAccessFile(java.io.File, java.lang.String)"
+android.view.View.hasOverlappingRendering()
+"android.hardware.SensorManager.getRotationMatrix(float[], float[], float[], float[])"
+android.support.v7.app.AppCompatDelegate.onCreate(android.os.Bundle)
+"android.webkit.CookieManager.setAcceptThirdPartyCookies(android.webkit.WebView, boolean)"
+"android.telephony.PhoneStateListener.onCallStateChanged(int, java.lang.String)"
+"android.content.ContentResolver.openAssetFileDescriptor(android.net.Uri, java.lang.String)"
+android.app.Service.stopSelfResult(int)
+android.bluetooth.BluetoothAdapter.getName()
+android.content.Intent.resolveActivity(android.content.pm.PackageManager)
+android.net.wifi.WifiManager.getConfiguredNetworks()
+android.bluetooth.BluetoothAdapter.cancelDiscovery()
+android.preference.PreferenceActivity.onSaveInstanceState(android.os.Bundle)
+"android.media.MediaPlayer.setWakeMode(android.content.Context, int)"
+android.view.Window.findViewById(int)
+android.app.NativeActivity.onResume()
+"android.app.Activity.startNextMatchingActivity(android.content.Intent, android.os.Bundle)"
+android.bluetooth.BluetoothAdapter.startDiscovery()
+android.app.Activity.onNewIntent(android.content.Intent)
+"android.content.Intent.createChooser(android.content.Intent, java.lang.CharSequence)"
+android.webkit.WebView.saveState(android.os.Bundle)
+android.app.ActivityGroup.onDestroy()
+"android.content.ContentProvider.delete(android.net.Uri, java.lang.String, java.lang.String[])"
+java.lang.Thread.getAllStackTraces()
+android.webkit.WebSettings.setBlockNetworkImage(boolean)
+"android.app.PendingIntent.getActivities(android.content.Context, int, android.content.Intent[], int)"
+android.app.Activity.finish()
+android.net.ConnectivityManager.getBackgroundDataSetting()
+"android.text.format.Formatter.formatFileSize(android.content.Context, long)"

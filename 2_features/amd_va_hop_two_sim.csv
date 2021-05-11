@@ -1,0 +1,92 @@
+features
+android.graphics.Rect.setEmpty()
+android.app.Fragment.onCreate(android.os.Bundle)
+android.telephony.TelephonyManager.getVoiceMailNumber()
+android.os.Debug.startMethodTracing(java.lang.String)
+android.app.Activity.getActionBar()
+android.location.LocationManager.removeUpdates(android.location.LocationListener)
+android.permission.SEND_SMS
+android.permission.READ_SMS
+android.content.ContentResolver.getType(android.net.Uri)
+android.media.AudioAttributes.getUsage()
+android.net.wifi.WifiManager.removeNetwork(int)
+android.app.Activity.getIntent()
+android.location.LocationManager.getLastKnownLocation(java.lang.String)
+android.app.Activity.getReferrer()
+"android.location.LocationManager.requestLocationUpdates(java.lang.String, long, float, android.location.LocationListener)"
+android.permission.GET_ACCOUNTS
+android.accounts.AccountManager.get(android.content.Context)
+android.location.LocationManager.getAllProviders()
+java.lang.Thread.sleep(long)
+android.telephony.TelephonyManager.getDeviceSoftwareVersion()
+android.view.accessibility.AccessibilityRecord.setEnabled(boolean)
+android.location.LocationManager.removeUpdates(android.app.PendingIntent)
+android.content.Context.getExternalFilesDir(java.lang.String)
+android.app.AlarmManager.cancel(android.app.PendingIntent)
+"android.telephony.SmsManager.sendDataMessage(java.lang.String, java.lang.String, short, byte[], android.app.PendingIntent, android.app.PendingIntent)"
+android.accounts.AccountManager.getAccountsByType(java.lang.String)
+android.app.Activity.getMenuInflater()
+android.view.Menu.addSubMenu(java.lang.CharSequence)
+android.content.Context.getExternalFilesDirs(java.lang.String)
+android.app.Activity.onPostCreate(android.os.Bundle)
+android.app.RemoteInput.getResultKey()
+android.permission.WRITE_CALL_LOG
+android.permission.ACCESS_FINE_LOCATION
+android.telephony.TelephonyManager.getNetworkType()
+"android.location.LocationManager.requestLocationUpdates(java.lang.String, long, float, android.location.LocationListener, android.os.Looper)"
+android.graphics.Bitmap.getRowBytes()
+android.app.Fragment.onStop()
+android.content.ContentValues.size()
+"android.content.Context.registerReceiver(android.content.BroadcastReceiver, android.content.IntentFilter)"
+java.lang.Long.longValue()
+android.bluetooth.BluetoothAdapter.isDiscovering()
+android.telephony.SmsManager.getDefault()
+android.location.LocationManager.getGpsStatus(android.location.GpsStatus)
+android.net.wifi.WifiInfo.getSSID()
+"android.net.wifi.WifiManager.enableNetwork(int, boolean)"
+android.media.RingtoneManager.getValidRingtoneUri(android.content.Context)
+android.util.SparseIntArray.keyAt(int)
+"android.webkit.WebViewClient.shouldOverrideUrlLoading(android.webkit.WebView, java.lang.String)"
+android.content.Context.getObbDir()
+android.content.Context.getCacheDir()
+"android.location.LocationManager.requestLocationUpdates(java.lang.String, long, float, android.app.PendingIntent)"
+android.bluetooth.BluetoothAdapter.getRemoteDevice(java.lang.String)
+android.os.Environment.getExternalStoragePublicDirectory(java.lang.String)
+android.permission.READ_EXTERNAL_STORAGE
+android.app.PendingIntent.send()
+android.net.wifi.WifiManager.startScan()
+android.app.Activity.onPostResume()
+android.content.ContextWrapper.getCacheDir()
+android.permission.ACCESS_WIFI_STATE
+android.content.Context.getFilesDir()
+android.widget.ListView.addHeaderView(android.view.View)
+android.content.Context.getPackageName()
+android.view.ViewGroup.bringChildToFront(android.view.View)
+"android.app.AlarmManager.set(int, long, android.app.PendingIntent)"
+android.content.Context.peekWallpaper()
+android.permission.WRITE_CONTACTS
+android.app.NativeActivity.onPause()
+android.webkit.WebSettings.setGeolocationEnabled(boolean)
+android.os.Environment.getExternalStorageState()
+"android.graphics.drawable.Drawable.createFromStream(java.io.InputStream, java.lang.String)"
+android.content.Context.getExternalCacheDirs()
+android.telephony.TelephonyManager.getLine1Number()
+android.permission.READ_PHONE_STATE
+android.net.wifi.WifiManager.getConfiguredNetworks()
+android.os.Binder.getCallingPid()
+android.graphics.RectF.setEmpty()
+"android.accounts.AccountManager.addOnAccountsUpdatedListener(android.accounts.OnAccountsUpdateListener, android.os.Handler, boolean)"
+android.telephony.TelephonyManager.getVoiceMailAlphaTag()
+"android.app.Activity.onCreateThumbnail(android.graphics.Bitmap, android.graphics.Canvas)"
+"android.telephony.SmsManager.sendTextMessage(java.lang.String, java.lang.String, java.lang.String, android.app.PendingIntent, android.app.PendingIntent)"
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_CALL_LOG
+android.hardware.SensorManager.getSensors()
+android.accounts.AccountManager.getAccounts()
+android.content.Context.getExternalCacheDir()
+android.app.Fragment.getView()
+"android.webkit.WebView.loadData(java.lang.String, java.lang.String, java.lang.String)"
+android.permission.READ_CONTACTS
+android.telephony.TelephonyManager.getCellLocation()
+android.os.Environment.getExternalStorageDirectory()
