@@ -1,0 +1,23 @@
+	initial 22 permissions
+1	android.permission.ACCEPT_HANDOVER
+2	android.permission.ACCESS_BACKGROUND_LOCATION
+3	android.permission.ACCESS_COARSE_LOCATION
+4	android.permission.ACCESS_FINE_LOCATION
+5	android.permission.ACCESS_MEDIA_LOCATION
+6	android.permission.ANSWER_PHONE_CALLS
+7	android.permission.CALL_PHONE
+8	android.permission.CAMERA
+9	android.permission.GET_ACCOUNTS
+10	android.permission.PROCESS_OUTGOING_CALLS
+11	android.permission.READ_CALL_LOG
+12	android.permission.READ_EXTERNAL_STORAGE
+13	android.permission.READ_PHONE_NUMBERS
+14	android.permission.READ_PHONE_STATE
+15	android.permission.READ_SMS
+16	android.permission.RECEIVE_MMS
+17	android.permission.RECEIVE_SMS
+18	android.permission.RECEIVE_WAP_PUSH
+19	android.permission.RECORD_AUDIO
+20	android.permission.SEND_SMS
+21	android.permission.WRITE_CALL_LOG
+22	android.permission.WRITE_EXTERNAL_STORAGE
